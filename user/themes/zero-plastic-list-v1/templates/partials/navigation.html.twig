@@ -1,0 +1,44 @@
+         
+<nav id="site-navigation" class="main-navigation">
+    <ul class="nav-menu">
+        {% for page in pages.children %}
+            {% if page.visible %}
+                {% if page.header.menu_seperate_before %} 
+                <li>
+                <br />
+                <br />
+                </li>
+                {% endif %}
+
+                {% set current_page = (page.active or page.activeChild) ? 'current-menu-item current-menu-ancestor' : '' %}
+                <li class="{{ current_page }} {% if page.children.visible.count > 0 %}menu-item-has-children{% endif %}">
+                    <a href="{{ page.url }}">
+                        {{ page.menu }}
+                    </a>
+
+                    <ul class="sub-menu">
+                        {% for page in page.children.visible %}
+                            {% set current_page = (page.active or page.activeChild) ? 'current-menu-item current-menu-ancestor' : '' %}
+                            <li class="{{ current_page }}">
+                                <a href="{{ page.url }}">
+                                    {{ page.menu }}
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% endif %}
+        {% endfor %}
+
+        {% for mitem in site.menu %}
+            <li>
+                <a href="{{ mitem.link }}">
+                    {{ mitem.text }}
+                    {% if mitem.description %}
+                        <div class="menu-item-description">{{ mitem.description }}</div>
+                    {% endif %}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+</nav>

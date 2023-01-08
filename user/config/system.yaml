@@ -6,6 +6,7 @@ languages:
     - de
   default_lang: en
   http_accept_language: true
+  session_store_active: false
 
 home:
   alias: '/home'
@@ -50,3 +51,6 @@ debugger:
     close_connection: true
 gpm:
   verify_peer: true
+
+session:
+  enabled: false

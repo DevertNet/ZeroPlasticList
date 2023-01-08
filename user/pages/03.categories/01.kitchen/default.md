@@ -1,7 +1,0 @@
----
-taxonomy:
-    category:
-        - test
----
-
-Kitchen...
