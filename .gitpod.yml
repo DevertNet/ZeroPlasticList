@@ -1,0 +1,12 @@
+ports:
+  - port: 8000
+    onOpen: open-preview
+
+tasks:
+  - init: composer install
+    command: php -S 0.0.0.0:8000 system/router.php
+
+vscode:
+  extensions:
+    - felixfbecker.php-debug
+    - bmewburn.vscode-intelephense-client
