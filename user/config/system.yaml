@@ -1,10 +1,17 @@
 absolute_urls: false
 
+languages:
+  supported:
+    - en
+    - de
+  default_lang: en
+  http_accept_language: true
+
 home:
   alias: '/home'
 
 pages:
-  theme: quark
+  theme: zero-plastic-list-v1
   markdown:
     extra: false
   process:

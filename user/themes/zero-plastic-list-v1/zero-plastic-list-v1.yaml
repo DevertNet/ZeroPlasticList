@@ -1,0 +1,11 @@
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - 'user://themes/zero-plastic-list-v1'
+         - 'user://themes/twentyfifteen'
+
+enabled: true
+current_preset: default

@@ -1,0 +1,18 @@
+name: Zero Plastic List V1
+slug: zero-plastic-list-v1
+type: theme
+version: 0.1.0
+description: Theme for a zero plastic list
+icon: rebel
+author:
+  name: Leon Weickert
+  email: zeroplastic@einfach123.de
+homepage: https://github.com/DevertNet/grav-theme-zero-plastic-list-v1
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/DevertNet/grav-theme-zero-plastic-list-v1/issues
+readme: https://github.com/DevertNet/grav-theme-zero-plastic-list-v1/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }

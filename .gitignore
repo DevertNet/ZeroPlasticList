@@ -23,8 +23,11 @@ user/data/*
 !user/data/.*
 user/plugins/*
 !user/plugins/.*
+!user/plugins/langswitcher
 user/themes/*
 !user/themes/.*
+!user/themes/twentyfifteen
+!user/themes/zero-plastic-list-v1
 user/localhost/config/security.yaml
 user/config/security.yaml
 
