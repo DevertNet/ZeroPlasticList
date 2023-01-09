@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Datenschutz­erklärung
 ---
 
 ## 1\. Datenschutz auf einen Blick

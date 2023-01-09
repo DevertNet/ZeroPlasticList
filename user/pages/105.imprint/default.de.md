@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: Impressum
 menu_seperate_before: true
 ---
 
