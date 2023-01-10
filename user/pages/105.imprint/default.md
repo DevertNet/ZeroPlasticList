@@ -1,6 +1,8 @@
 ---
 title: Imprint
 menu_seperate_before: true
+metadata:
+    robots: 'noindex, nofollow'
 ---
 
 ## Angaben gemäß § 5 TMG

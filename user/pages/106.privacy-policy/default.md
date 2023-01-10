@@ -1,5 +1,7 @@
 ---
 title: Privacy Policy
+metadata:
+    robots: 'noindex, nofollow'
 ---
 
 ## 1\. Datenschutz auf einen Blick

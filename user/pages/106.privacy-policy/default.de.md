@@ -1,5 +1,7 @@
 ---
 title: Datenschutz­erklärung
+metadata:
+    robots: 'noindex, nofollow'
 ---
 
 ## 1\. Datenschutz auf einen Blick
