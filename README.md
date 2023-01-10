@@ -17,3 +17,8 @@ Not tested, but should work ;)
 2. `bin/grav install`
 3. `php -S 0.0.0.0:8000 system/router.php`
 4. Open `http://localhost:8000` in your browser
+
+### Add/Edit pages
+The pages are managed with markdown files. You can find them here: `/user/pages/`.
+This system is based on Grav cms. For more details to edit pages take a look here: 
+https://learn.getgrav.org/17/content/content-pages
