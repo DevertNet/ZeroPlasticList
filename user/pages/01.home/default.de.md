@@ -1,5 +1,6 @@
 ---
-title: Home
+title: Willkommen bei Zero Plastic List
+menu: Startseite
 body_classes: title-center title-h1h2
 ---
 Wir lieben unseren Planeten. Deshalb arbeiten wir daran, euch die besten Produkte, Dienstleistungen und Erfahrungen ohne Plastik aufzulisten, die zur Verringerung der Plastikverschmutzung beitragen können. Außerdem möchten wir, dass Sie Zugang zu allen Produkten haben, ohne auf Qualität oder Sicherheit verzichten zu müssen. Auf dieser Webseite findet Ihr Produkte, die kein (oder weniger) Plastik enthalten!

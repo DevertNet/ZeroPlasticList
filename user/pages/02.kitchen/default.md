@@ -12,5 +12,3 @@ content:
     pagination: true
 
 ---
-
-...

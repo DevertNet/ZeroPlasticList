@@ -1,5 +1,5 @@
 ---
-title: Pfannenwender ohne Plastik
+title: Pfannenwender zum kochen ohne Plastik
 menu: Pfannenwender
 slug: pfannenwender
 ---

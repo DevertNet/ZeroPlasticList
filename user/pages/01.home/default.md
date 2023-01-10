@@ -1,5 +1,6 @@
 ---
-title: Home
+title: Welcome to Zero Plastic List
+menu: Home
 body_classes: title-center title-h1h2
 ---
 

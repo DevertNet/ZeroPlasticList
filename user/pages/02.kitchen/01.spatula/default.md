@@ -1,5 +1,5 @@
 ---
-title: Kitchen Spatula without plastic
+title: Kitchen Spatula for cooking without plastic
 menu: Spatula
 slug: spatula
 ---
