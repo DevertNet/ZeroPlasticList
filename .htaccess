@@ -2,6 +2,14 @@
 
 RewriteEngine On
 
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^www\.zero-plastic-list\.de [NC]
+RewriteRule ^(.*)$ https://zero-plastic-list.de/$1 [L,R=301]
+
+RewriteCond %{HTTPS} on
+RewriteCond %{HTTP_HOST} ^www\.zero-plastic-list\.de [NC]
+RewriteRule ^(.*)$ https://zero-plastic-list.de/$1 [L,R=301]
+
 ## Begin RewriteBase
 # If you are getting 500 or 404 errors on subpages, you may have to uncomment the RewriteBase entry
 # You should change the '/' to your appropriate subfolder. For example if you have
