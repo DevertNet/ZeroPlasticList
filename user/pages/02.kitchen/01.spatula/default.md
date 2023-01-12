@@ -2,7 +2,26 @@
 title: Kitchen Spatula for cooking without plastic
 menu: Spatula
 slug: spatula
+template: item
+cover: cover.jpg
+metadata:
+    description: "Different types of spatulas without plastic. A simple and cheap way to avoid plastic when cooking."
 ---
+
+Here is a list of spatulas for cooking without plastic. One thing that has always bothered me was using plastic spatulas to stir my food. The problem is that these usually melt when they get hot.
+
+===
+
+Here you find a list of spatulas for cooking without plastic. Below the list you find some more text about spatulas.
+
+| Image | Text | Preis | Link |
+|-------|--------|--------|--------|
+| ![Fackelmann Pfannenwender](fackelmann.jpg) | Fackelmann Pfannenwender 30 cm OLIVE | ca. 7,95 Euro | [Amazon (*)](https://www.amazon.de/FACKELMANN-Pfannenwender-K%C3%BCchenhelfer-Oliven-Holz-unverkennbarer/dp/B000MV4CME?keywords=holz%2Bpfannenwender&qid=1673123560&sprefix=holz%2Bpf%2Caps%2C513&sr=8-7&th=1&linkCode=ll1&tag=ledlampvergde-21&linkId=28352aa194ec2827b5692462de5d290c&language=de_DE&ref_=as_li_ss_tl) |
+| ![Pfannenwender-Set](set.jpg) | Holz Pfannenwender-Set & Kochlöffel-Set | ca. 23,99 Euro | [Amazon (*)](https://amzn.to/3IGijHy) |
+
+
+ <sub>\* *This is an affiliate link. If you make a sale through this link, we will receive a commission. The creation of the lists costs time and also some money for the technology, we would like to finance ourselves through the commission.*</sub>
+
 I love cooking, but it's not always the most comfortable experience. One thing that's always bothered me is using a plastic spatula to stir my food. The problem is that these usually melt when they get hot, which can lead to lumps in your food and make it harder for you to control how much goes into each dish. If you're also tired of dealing with melting plastic spoons and forks, then we have good news! There are plenty of options out there for wooden spatulas that won't melt when they get too hot—and even better: they don't contain any harmful chemicals or toxins like plastic does! In this article we'll explore some different types of wooden spatulas (including those made from bamboo), why they're so effective at helping keep your hands safe while cooking and how much more comfortable they feel compared with plastic ones
 
 ## You can get wooden spatulas that don't made of plastic.

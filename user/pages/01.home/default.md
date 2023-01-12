@@ -2,6 +2,8 @@
 title: Welcome to Zero Plastic List
 menu: Home
 body_classes: title-center title-h1h2
+metadata:
+    description: "Get a list of products that don't contain any (or less) plastic. We will extend this list from time to time."
 ---
 
 We love our planet. That's why we're working to bring you the best products, services and experiences that can help reduce plastic pollution. We also want you to have access to all products without sacrificing quality or safety. We are announcing our Zero Plastic List of items that don't contain any (or less) plastic!
