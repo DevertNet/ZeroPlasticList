@@ -1,6 +1,6 @@
 ---
 title: Water filter without plastic
-menu: waterfilter
+menu: Waterfilter
 slug: waterfilter
 template: item
 cover: cover.jpg
